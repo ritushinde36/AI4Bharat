@@ -109,3 +109,11 @@ The system employs four specialized autonomous agents:
 **Technology Stack**: React 18 + TypeScript + Tailwind CSS + AWS Amplify
 
 **Key Pages**:
+1. Landing Page
+2. Setup - Add Competitors
+3. Setup - Configure Alerts
+4. Setup - Choose Reports
+5. Main Dashboard
+6. Competitors View
+7. Alerts Page
+8. Reports Library
